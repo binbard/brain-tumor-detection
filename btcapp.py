@@ -3,7 +3,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
-import joblib, cv2, os
+import joblib
+import cv2
+import os
 
 
 st.set_page_config(layout="wide")
